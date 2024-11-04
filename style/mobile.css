@@ -1,0 +1,124 @@
+@media screen and (max-width: 375px) {
+  * {
+    list-style: none;
+    text-decoration: none;
+  }
+  .navbarrr {
+    max-width: 375px;
+    height: 100vh;
+  }
+  .container {
+    width: 320px;
+    height: 100vh;
+  }
+  .rasm {
+    width: 320px;
+  }
+  .text-btn-uchun {
+    width: 300px;
+    margin: 0 auto;
+  }
+  .p1 {
+    font-size: 22px;
+    font-weight: 900;
+    margin-left: 30px;
+  }
+  .p2 {
+    font-size: 15px;
+    font-weight: 600;
+    color: dimgrey;
+  }
+  .btn {
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    border: 1px solid #ff553e;
+    background-color: #ff553e;
+    color: white;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: 30px;
+  }
+  .ul1 {
+    width: 130px;
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+  .b {
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .p15k + {
+    font-size: 15px;
+  }
+  .list-3 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 800;
+  }
+  .list3 {
+    color: dimgrey;
+    font-size: 15px;
+    width: 200px;
+    margin: 0 auto;
+  }
+  .list3-ul {
+  }
+  .rasmlar {
+    width: 100px;
+  }
+
+  .li1 {
+    background-color: #70d0dc;
+    width: 250px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 20px;
+  }
+
+  .perest {
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+  }
+  .peest {
+    margin-left: 10px;
+    color: white;
+  }
+
+  .li2 {
+    background-color: #7562e0;
+    width: 250px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  .reminder {
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+  }
+  .reminderr {
+    margin-left: 10px;
+    color: white;
+  }
+  .li3 {
+    background-color: #fa865f;
+
+    width: 250px;
+    border-radius: 20px;
+    display: inline-block;
+    transition: ease 0.4s;
+    margin-top: 20px;
+  }
+  .complecation {
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+  }
+  .compleciotionn {
+    margin-left: 10px;
+    color: white;
+  }
+}
